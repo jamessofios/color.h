@@ -2,6 +2,8 @@
 
 *This will only work on terminals that can interpret ANSI escape codes.*
 
+![](demo.png)
+
 ## In this repository directory run make to compile the demo:
 ```
 $ make
